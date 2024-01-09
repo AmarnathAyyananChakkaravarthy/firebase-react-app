@@ -1,2 +1,1 @@
-# firebase-react-app
- Sample React App with Firebase Hosting
+Sample Vite React App with Firebase React App Deployment and Hosting
